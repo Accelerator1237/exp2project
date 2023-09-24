@@ -1,12 +1,12 @@
 #include <iostream>
 #include <string>
 using namespace std;
-class hello_world
+class hello_World
 {
 private:
     string print;
 public:
-    hello_world()
+    hello_World()
     {
         print = "I'm Accelerator. Hello, World!";
     }
@@ -16,7 +16,7 @@ public:
     }
 };
 int main() {
-    hello_world hello;
+    hello_World hello;
     hello.out();
     return 0;
 }
