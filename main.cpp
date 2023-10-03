@@ -1,22 +1,11 @@
 #include <iostream>
 #include <string>
+#include <stack>
 using namespace std;
-class hello_World
+
+
+int main()
 {
-private:
-    string print;
-public:
-    hello_World()
-    {
-        print = "I'm Accelerator. Hello, World!";
-    }
-    void out()
-    {
-        cout << print << endl;
-    }
-};
-int main() {
-    hello_World hello;
-    hello.out();
+    cout << "hello world" << endl;
     return 0;
 }
