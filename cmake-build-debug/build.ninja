@@ -54,6 +54,15 @@ build CMakeFiles/exp2project.dir/main.cpp.obj: CXX_COMPILER__exp2project_Debug F
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\exp2project.dir
   OBJECT_FILE_DIR = CMakeFiles\exp2project.dir
+<<<<<<< HEAD
+=======
+
+build CMakeFiles/exp2project.dir/branch/hello.cpp.obj: CXX_COMPILER__exp2project_Debug F$:/Èí¼þ¹¤³Ì/exp2project/branch/hello.cpp || cmake_object_order_depends_target_exp2project
+  DEP_FILE = CMakeFiles\exp2project.dir\branch\hello.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\exp2project.dir
+  OBJECT_FILE_DIR = CMakeFiles\exp2project.dir\branch
+>>>>>>> exp2-branch
 
 
 # =============================================================================
@@ -63,7 +72,7 @@ build CMakeFiles/exp2project.dir/main.cpp.obj: CXX_COMPILER__exp2project_Debug F
 #############################################
 # Link the executable exp2project.exe
 
-build exp2project.exe: CXX_EXECUTABLE_LINKER__exp2project_Debug CMakeFiles/exp2project.dir/main.cpp.obj
+build exp2project.exe: CXX_EXECUTABLE_LINKER__exp2project_Debug CMakeFiles/exp2project.dir/main.cpp.obj CMakeFiles/exp2project.dir/branch/hello.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\exp2project.dir

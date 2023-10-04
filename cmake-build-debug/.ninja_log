@@ -1,6 +1,7 @@
 # ninja log v5
 4	376	7172318120000000	CMakeFiles/exp2project.dir/main.cpp.obj	149975a5986e2635
 377	1541	7172318140000000	exp2project.exe	897be824bd99f4da
+<<<<<<< HEAD
 1	2616	7174134820000000	build.ninja	80da88e79622f69d
 7	2847	7174137240000000	CMakeFiles/exp2project.dir/main.cpp.obj	149975a5986e2635
 2849	3367	7174137260000000	exp2project.exe	897be824bd99f4da
@@ -32,3 +33,8 @@
 821	1072	7174154380000000	exp2project.exe	897be824bd99f4da
 4	624	7180455340000000	CMakeFiles/exp2project.dir/main.cpp.obj	149975a5986e2635
 625	996	7180455340000000	exp2project.exe	897be824bd99f4da
+=======
+6	368	7180470540000000	CMakeFiles/exp2project.dir/branch/hello.cpp.obj	b915b1a4d09cf2ed
+1	2161	7180470540000000	CMakeFiles/exp2project.dir/main.cpp.obj	149975a5986e2635
+2162	2327	7180470560000000	exp2project.exe	2d420b1f417811ec
+>>>>>>> exp2-branch
