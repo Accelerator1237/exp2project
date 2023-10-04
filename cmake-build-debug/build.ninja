@@ -54,15 +54,12 @@ build CMakeFiles/exp2project.dir/main.cpp.obj: CXX_COMPILER__exp2project_Debug F
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\exp2project.dir
   OBJECT_FILE_DIR = CMakeFiles\exp2project.dir
-<<<<<<< HEAD
-=======
 
 build CMakeFiles/exp2project.dir/branch/hello.cpp.obj: CXX_COMPILER__exp2project_Debug F$:/Èí¼þ¹¤³Ì/exp2project/branch/hello.cpp || cmake_object_order_depends_target_exp2project
   DEP_FILE = CMakeFiles\exp2project.dir\branch\hello.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\exp2project.dir
   OBJECT_FILE_DIR = CMakeFiles\exp2project.dir\branch
->>>>>>> exp2-branch
 
 
 # =============================================================================
