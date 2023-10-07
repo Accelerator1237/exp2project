@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout << "I'm Accelerator, hello world" << endl;
+    cout << "My name is Accelerator, hello world" << endl;
     return 0;
 }

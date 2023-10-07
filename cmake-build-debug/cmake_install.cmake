@@ -1,4 +1,4 @@
-# Install script for directory: F:/软件工程/exp2project
+# Install script for directory: F:/软件工程/exp2/exp2project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/软件工程/exp2project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/软件工程/exp2/exp2project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

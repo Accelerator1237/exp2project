@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/\u8f6f\u4ef6\u5de5\u7a0b/exp2project/cmake-build-debug",
-		"source" : "F:/\u8f6f\u4ef6\u5de5\u7a0b/exp2project"
+		"build" : "F:/\u8f6f\u4ef6\u5de5\u7a0b/exp2/exp2project/cmake-build-debug",
+		"source" : "F:/\u8f6f\u4ef6\u5de5\u7a0b/exp2/exp2project"
 	},
 	"version" : 
 	{
